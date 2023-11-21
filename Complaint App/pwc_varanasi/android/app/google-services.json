@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545560120483",
+    "project_id": "pwdngo-767ae",
+    "storage_bucket": "pwdngo-767ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545560120483:android:c05b64b005867feaf94316",
+        "android_client_info": {
+          "package_name": "com.thirteen3.pwc_varanasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545560120483-qkvdg0icn7gbfj3m2hq6o4f2cg3ivuai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVF2fiAhsyi4o4iIqV7c3c8OiL5V-ks4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545560120483-qkvdg0icn7gbfj3m2hq6o4f2cg3ivuai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
