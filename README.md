@@ -18,7 +18,8 @@
 
   ## App
   <img src="https://github.com/agryashu23/Complaint-Management/assets/60836876/8b029737-5b1d-4f80-93a3-0cc6c3babf74" width="100" height="100">
-  ![WhatsApp Image 2023-11-22 at 22 36 06_c60ebd6b](https://github.com/agryashu23/Complaint-Management/assets/60836876/8b029737-5b1d-4f80-93a3-0cc6c3babf74|width=50|height=100)![WhatsApp Image 2023-11-22 at 22 41 22_66574838](https://github.com/agryashu23/Complaint-Management/assets/60836876/7479adf4-8a6b-4772-a74f-17d781b66f29|width=50|height=100)
+  
+  
 
 
 
